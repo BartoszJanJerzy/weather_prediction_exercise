@@ -1,0 +1,8 @@
+pandas
+plotly
+scikit-learn
+lightgbm
+statsmodels
+torch
+nbconvert
+IPykernel
